@@ -1,0 +1,19 @@
+body {
+	background: #3E5F48; 
+	text-align: center; 
+	color: red;
+}
+
+p {
+	font-family: Courier;
+	color: #A2B7A8;
+}
+
+a {
+	color: #A8B954;
+}
+
+.negrito {
+	font-weight: bold;
+	text-decoration: underline;
+}
